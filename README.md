@@ -1,6 +1,6 @@
 # Hello! My name is Rhys Wastell! 
 
-I am currently working as a Junior Fullstack Software Developer for Gordon Food Service. I have around 2 years of experience developing code professionally between internships and employment.
+I am currently working as a Junior Fullstack Software Developer for Barret Solutions. I have around 3 years of experience developing code professionally between internships and employment.
 For more information about me or work I have done checkout my website [here](https://rhyswas.github.io/personal-site/)
 
 ## Toolbox
@@ -20,7 +20,7 @@ I have had the chance to work with many different languages, tools and framework
 5. .Net
 
 ## Other Stuff
-Currently I am based in the Upper Peninsula of Michigan, as I work remotely. In my freetime I enjoy staying active by running, playing soccer, and hiking.
+Currently I am based in Ann Arbor, Michigan. In my freetime I enjoy staying active by running, playing soccer, and hiking.
 Outside of physical activities I enjoy reading and catching up on TV shows.
 
 
